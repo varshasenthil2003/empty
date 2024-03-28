@@ -1,4 +1,4 @@
-https://github.com/varshasenthil2003/empty/blob/main/vizualizations/vis1.jpg# Urban Insights Explorer 🌆
+# Urban Insights Explorer 🌆
 
 Urban Insights Explorer is a data exploration and analysis tool developed during the hackathon. It leverages data from the U.S. Census Bureau to provide insights into demographics at the city and zip code levels, focusing on California and Washington states. The project includes data collection, preprocessing, modeling, and visualization components.
 
