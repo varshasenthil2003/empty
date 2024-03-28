@@ -38,7 +38,8 @@ The goal of this project is to create a visual dashboard that allows users to ex
    - Generates interactive charts, graphs, and tables using Matplotlib, Seaborn, and Streamlit.
    - Displays trend analysis, seasonal decomposition, histograms, box plots, heatmaps, and correlation plots.
    - Provides actionable insights and statistical summaries to aid decision-making.
-
+   - Images in the Gallery section are resized for better viewing.
+   
 5. **Dashboard Interface:**
    - Built with Streamlit for an intuitive and user-friendly experience.
    - Allows users to select cities/zip codes, compare demographic attributes, and customize visualization settings.
